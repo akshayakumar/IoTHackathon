@@ -1,16 +1,16 @@
-Beginner Level:
-    1) Explore Cisco Spark User interface
-      Follow the instructions from the learning lab below  -(Login with Cisco Spark)
-       Try Page 1 & Page 2 (Page 3 is optional ) if you have Postman App installed. 
-          https://learninglabs.cisco.com/tracks/devnet-beginner/beginning-apis/04-rest-02-spark-rest-api-and-postman/step/1
+Beginner Level
+     1) Explore Cisco Spark User interface
+        Follow the instructions from the learning lab below  -(Login with Cisco Spark)
+        Try Page 1 & Page 2 (Page 3 is optional ) if you have Postman App installed. 
+              https://learninglabs.cisco.com/tracks/devnet-beginner/beginning-apis/04-rest-02-spark-rest-api-and-postman/step/1
   
-    2) After completing the first Task now you are familiar with Cisco Spark and how to use the in-built API to collaborate. 
-      From the https://developer.ciscospark.com. Try following Task using API : 
+     2) After completing the first Task now you are familiar with Cisco Spark and how to use the in-built API to collaborate. 
+        From the https://developer.ciscospark.com. Try following Task using API : 
               List Rooms
               Send Message to specific Room
               Retrive message 
 
-Expert Level:
+Expert Level
     3) Create your own Bot:
         Now its time to create your own Bot and send message as Bot
           Creating a Bot in Cisco Spark
@@ -23,13 +23,16 @@ Expert Level:
                     Icon
               5) Click the Add Bot button & Scroll down and copy the Access Token
               6) Add the Bot to your Room on Spark using the "@spark.io" id.
-              7) Sending message on behalf of Bot:
-                  Now you can replace the Bearer Token with the Bot's Access Token to send message as Bot.
+        
+         Sending message on behalf of Bot:
+                  Now you can replace the "Bearer Token" (refer Task 1 & 2) with the Bot's Access Token to send message as Bot.
 
      4) Convesational Bot using Diaglogflow
-          Take it to the next level by creating a conversation flow with the Bot.
+          Take it to the next level by creating a conversation flow with your Bot.
            For this you will need a Google account to login to Diaglogflow.
            Detailed instructions Here: https://dialogflow.com/docs/integrations/spark 
+           
+           
     
           
 
