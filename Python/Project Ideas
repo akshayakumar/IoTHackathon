@@ -1,3 +1,17 @@
+Beginner Level:
+
+Following section has some references to Python programs that uses Cisco API.
+After complete the excercise in "Cisco Spark" you are now familiar with Cisco Spark Environment and Cisco Spark API.
+
+Not lets look at how we can use simple Python to create simple programs using Cisco Spark API.
+If you dont have Python installed in local machine you can use any Online python compiler. ( Online Python Compiler: https://repl.it/ )
+
+
+1) Run the Python sample codes from the Python folder - (https://github.com/akshayakumar/IoTHackathon/tree/master/Python)
+	#Replace the {access-token} with your personal access token.
+
+2) Write your own Python code to Post message to Spark room - for group, individual(using email-id)
+
 Expert Level
 
 1) Location based services using Cisco CMX:
