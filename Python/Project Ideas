@@ -1,0 +1,26 @@
+Expert Level
+
+1) Location based services using Cisco CMX:
+    
+    Cisco CMX is the most popular in Cisco API community since it let us build some cool Location based Apps.. Check out this reference that walks you through the basics on how to incorporate CMX API in Python & Node.js Code & more.. 		https://github.com/geekbleek/CMX_Getting_Started_Code
+		
+		CMX Use Case 
+		•	Location based services, Analytics – WiFi & BLE
+		•	Allow for users to check how “crowded” an area (event, line, store, etc) is relative to capacity.
+		•	Automate attendance and classroom assignments from mobile device
+		
+		Watch:
+		https://www.youtube.com/watch?v=clAqGsxIARU
+		
+		Getting Started with Cisco CMX :https://developer.cisco.com/site/cmx-mobility-services/
+		Hello World: 
+		Signup & Login to developer.cisco.com and then visit following URL
+		https://learninglabs.cisco.com/modules/dna-cmx-mse
+
+		Always-on-Sandbox
+		CMX : https://devnetsandbox.cisco.com/RM/Diagram/Index/3f3178e9-8c8e-4b9a-9ced-689602d493cb?diagramType=Topology
+		* Dashboard: http://cmxlocationsandbox.cisco.com/
+		* Username: learning
+		* Password: learning
+    
+ 2) Write your own Python script to query CMX for location information ( using CMX API) and post it on Cisco Spark ( refer Cisco Spark section)
