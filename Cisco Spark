@@ -32,6 +32,13 @@ Expert Level
            For this you will need a Google account to login to Diaglogflow.
            Detailed instructions Here: https://dialogflow.com/docs/integrations/spark 
            
+     5) Advanced - Deploy Advanced Convesational Bot integration & webhook from Heroku 
+          Steps: https://miningbusinessdata.com/api-ai-tutorial-getting-started-webhooks-heroku/
+          
+     6) Customize your own script, define your own intent and make you Bot more interactive with webhooks: 
+          https://github.com/dialogflow/fulfillment-webhook-weather-python
+               
+     
            
     
           
