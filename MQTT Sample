@@ -1,0 +1,18 @@
+Run and test MQTT on your local machine with Mosquitto
+
+1) Install Mosquitto (mosquitto.org) - https://mosquitto.org/download/ 
+
+For MAC users
+
+2) Run Mosquitto – 
+      brew services start mosquitto
+3) Subscriber: 
+      mosquitto_sub -t topic/state -h 127.0.0.1
+4) Publisher: 
+      mosquitto_pub -t topic/state -m '{"temperature": 12, "pressure": 11, "humidity": 10}'
+
+All users: 
+https://mosquitto.org/
+http://www.steves-internet-guide.com/install-mosquitto-broker/
+https://www.digitalocean.com/community/questions/how-to-setup-a-mosquitto-mqtt-server-and-receive-data-from-owntracks
+
