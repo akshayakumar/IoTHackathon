@@ -1,10 +1,10 @@
 Beginner Level
-     1) Explore Cisco Spark User interface
-        Follow the instructions from the learning lab below  -(Login with Cisco Spark)
+     1) Explore Cisco WebEX User interface
+        Follow the instructions from the learning lab below  -(Login with Cisco WebEX)
         Try Page 1 & Page 2 (Page 3 is optional ) if you have Postman App installed. 
               https://learninglabs.cisco.com/tracks/devnet-beginner/beginning-apis/04-rest-02-spark-rest-api-and-postman/step/1
   
-     2) After completing the first Task now you are familiar with Cisco Spark and how to use the in-built API to collaborate. 
+     2) After completing the first Task now you are familiar with Cisco WebEX and how to use the in-built API to collaborate. 
         From the https://developer.webex.com. Try following Task using API : 
               List Rooms
               Send Message to specific Room
@@ -13,7 +13,7 @@ Beginner Level
 Expert Level
     3) Create your own Bot:
         Now its time to create your own Bot and send message as Bot
-          Creating a Bot in Cisco Spark
+          Creating a Bot in Cisco WebEX
               1) Go to https://developer.webex.com/apps.html and login
               2) Click on the plus icon in the upper right hand corner
               3) Click the Create a Bot button
